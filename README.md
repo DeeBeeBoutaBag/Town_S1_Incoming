@@ -212,6 +212,22 @@
                 <td>Clarify real definitions and mechanisms of racism, examining local and national case studies on how prejudice is enforced by systems of power.</td>
                 <td></td>
             </tr>
+            <tr>
+                <td>6</td>
+                <td>3</td>
+                <td>Reverse Racism: Myth-Busting and Historical Roots</td>
+                <td>Examine the origins, political use, and facts about "reverse racism," and learn why it is not a real form of systemic discrimination.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>4</td>
+                <td>Building Unity: Healing Internalized Racism & Creating Community Strength</td>
+                <td>Focus on affirmation, group visioning, and practical strategies to dismantle internalized racism and build cross-community unity.</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
 </details>
 <details>
     <summary>Tech Creation</summary>
