@@ -70,14 +70,14 @@
                 <td>3</td>
                 <td>Social Constructs I: Who Gets What? (4 Corners Simulation)</td>
                 <td>Break down social constructs by taking on resource roles, negotiating for resources and bonus money, and reflecting on fairness and privilege.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_1/W1_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>1</td>
                 <td>4</td>
                 <td>Social Constructs II: Create-a-Country Challenge</td>
                 <td>Geniuses form new nations, establishing values, resources, and rules to learn how systems and constructs are designed and enforced.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_1/W1_D4.md">Lesson Plan</a></td>
             </tr> 
             <!-- WEEK 2: Power, Economics, Patriarchy, and Oppression -->
             <tr><td colspan="5"><strong>Week 2: Power, Economics, and Interlocking Systems</strong></td></tr>
@@ -86,28 +86,28 @@
                 <td>1</td>
                 <td>Power I: Who Has Power & Why?</td>
                 <td>Understand key definitions and relationships of power with a hands-on role simulation and group reflection.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_2/W2_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>2</td>
                 <td>Power II: Building & Challenging Power</td>
                 <td>Geniuses design their own societies, exploring how power is created, shared, or contested when new challenges arise.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_2/W2_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>3</td>
                 <td>Capitalism I: Who Owns, Who Works, Who Wins?</td>
                 <td>Simulate capitalist marketplace dynamics by taking the roles of owners, workers, and unwaged labor. Analyze who gets wealthy and why.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_2/W2_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>4</td>
                 <td>Capitalism II: Resisting, Reforming, and Reimagining</td>
                 <td>Design “Just Societies” and explore how people resist exploitation through co-ops, unions, and collective action.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_2/W2_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 3: Gender, Colonization, and Sovereignty -->
             <tr><td colspan="5"><strong>Week 3: Patriarchy, Colonialism and Community Power</strong></td></tr>
@@ -116,28 +116,28 @@
                 <td>1</td>
                 <td>Patriarchy I: What Is Patriarchy?</td>
                 <td>Learn what patriarchy is, spot gender roles and stereotypes, and explore its connections to other systems of oppression.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_3/W3_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>2</td>
                 <td>Patriarchy II: Impacts & Costs</td>
                 <td>Geniuses map out how patriarchy affects all genders and intersecting identities through stories and discussion.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_3/W3_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>3</td>
                 <td>Patriarchy III: Skills for Challenging Patriarchy</td>
                 <td>Practice bystander intervention, allyship, and campaign brainstorming to disrupt gendered oppression.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_3/W3_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>4</td>
                 <td>Patriarchy IV: Interlocking Oppressions</td>
                 <td>Understand how patriarchy, white supremacy, and capitalism connect; build solidarity and intersectional analysis.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_3/W1_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 4: Colonialism, Imperialism, and Self-Determination -->
             <tr><td colspan="5"><strong>Week 4: Colonialism, Imperialism, and Sovereignty</strong></td></tr>
@@ -146,28 +146,28 @@
                 <td>1</td>
                 <td>Colonialism: History and Legacies for Black People</td>
                 <td>Trace the roots and impact of colonialism, mapping stolen land, identity, culture, and wealth; connect to anti-colonial resistance.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_4/W4_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>2</td>
                 <td>NeoColonialism: Modern Economic and Cultural Control</td>
                 <td>Role-play national leaders facing external forces, analyze case studies, and strategize for self-determination in a neo-colonial world.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_4/W4_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>3</td>
                 <td>Imperialism: Tech, Gentrification & Digital Control</td>
                 <td>Geniuses evaluate how tech giants, social media, and gentrification act as new forms of imperialism impacting Black communities.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_4/W4_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>4</td>
                 <td>Sovereignty: Self-Governance and Black Innovation</td>
                 <td>Students design tech, entrepreneurship, and school advocacy projects to imagine and advocate for Black community control and decision-making.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_4/W4_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 5: Race, Privilege, and Internalization -->
             <tr><td colspan="5"><strong>Week 5: Understanding Racism, Privilege, and Healing</strong></td></tr>
@@ -176,28 +176,28 @@
                 <td>1</td>
                 <td>White Privilege I: Systems of Advantage</td>
                 <td>Define personal and institutional privilege, analyze real-world scenarios of advantage, and reflect on the results of US systemic favoritism toward whites.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_5/W5_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>2</td>
                 <td>White Privilege II: Intersectionality, Resistance, Accountability</td>
                 <td>Explore how privilege and oppression intersect, and develop action steps for solidarity and anti-racism.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_5/W5_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>3</td>
                 <td>White Supremacy I: Systemic Exploitation and Oppression</td>
                 <td>Learn the history and mechanics of white supremacy as a global structure and connect historic examples to today’s realities.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_5/W5_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>4</td>
                 <td>White Supremacy II: Resistance and Dismantling Oppression</td>
                 <td>Investigate resistance movements, past and present, and strategize how to confront and dismantle oppressive systems.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_5/W5_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 6: Internalized Racism, Healing, and Unity -->
             <tr><td colspan="5"><strong>Week 6: Internalized Racism, Healing, and Unity</strong></td></tr>
@@ -206,28 +206,28 @@
                 <td>1</td>
                 <td>Internalized Racism: The Poison Within</td>
                 <td>Examine how people of color absorb harmful beliefs and behaviors, then develop healing practices and affirmations for self and community.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_6/W6_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>2</td>
                 <td>Racism: Prejudice Plus Power</td>
                 <td>Clarify real definitions and mechanisms of racism, examining local and national case studies on how prejudice is enforced by systems of power.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_6/W6_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>3</td>
                 <td>Reverse Racism: Myth-Busting and Historical Roots</td>
                 <td>Examine the origins, political use, and facts about "reverse racism," and learn why it is not a real form of systemic discrimination.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_6/W6_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>4</td>
                 <td>Building Unity: Healing Internalized Racism & Creating Community Strength</td>
                 <td>Focus on affirmation, group visioning, and practical strategies to dismantle internalized racism and build cross-community unity.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_6/W6_D4.md">Lesson Plan</a></td>
             </tr>
         </tbody>
     </table>
