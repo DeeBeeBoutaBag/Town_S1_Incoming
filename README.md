@@ -214,40 +214,157 @@
             </tr>
 </details>
 <details>
-    <summary>Bootstrap</summary>
-      <table>
+    <summary>Tech Creation</summary>
+    <table>
         <thead>
             <tr>
+                <th>WEEK</th>
                 <th>DAY</th>
-                <th>Lesson Desc.</th>
-                <th>Link</th>
+                <th>Lesson Title</th>
+                <th>Lesson Description</th>
+                <th>Lesson Link</th>
             </tr>
         </thead>
         <tbody>
+            <!-- WEEK 1: Computer Fundamentals, Concepts -->
+            <tr><td colspan="5"><strong>Week 1: Computer Fundamentals & Essential Concepts</strong></td></tr>
             <tr>
-                <td>9</td>
-                <td>Intro to Bootstrap: Commonly used Bootstrap components (navbars, modals, cards) /  Landing page app
-
-</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Landing-page">Landing Page</a></td>
+                <td>1</td>
+                <td>1</td>
+                <td>What is a Computer? Hardware & Software</td>
+                <td>Geniuses learn about input/output devices, hardware vs. software, basic components (CPU, RAM, storage), and what makes computers work.</td>
+                <td><a href="#">Lesson 1</a></td>
             </tr>
             <tr>
-                <td>10</td>
-                <td>Customizing Bootstrap with Sass / Art Gallery app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Art-Gallery-App">Art Gallery App</a></td>
+                <td>1</td>
+                <td>2</td>
+                <td>Operating Systems & The Cloud</td>
+                <td>Explore how operating systems (Windows, Mac, Linux) and cloud computing power the digital world and enable everyday tech usage.</td>
+                <td><a href="#">Lesson 2</a></td>
             </tr>
             <tr>
-                <td>11</td>
-                <td>Building complex layouts with Bootstrap utilities / Clothing Store app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Clothing-Store-App">Clothing Store App</a></td>
+                <td>1</td>
+                <td>3</td>
+                <td>Data, Files & Digital Organization</td>
+                <td>Discover how data is stored, files are organized, and how bits and bytes form the building blocks of all digital media.</td>
+                <td><a href="#">Lesson 3</a></td>
+            </tr>
+            <!-- WEEK 2: Problem Solving, Critical Thinking -->
+            <tr><td colspan="5"><strong>Week 2: Problem Solving and Critical Thinking</strong></td></tr>
+            <tr>
+                <td>2</td>
+                <td>1</td>
+                <td>Introduction to Algorithms</td>
+                <td>Geniuses break down problems into steps, design basic algorithms, and learn the logic behind computer problem-solving.</td>
+                <td><a href="#">Lesson 4</a></td>
             </tr>
             <tr>
-                <td>12</td>
-                <td>Using Bootstrap JavaScript plugins / Sports App</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/bootstrap/Sports-App">Sports App</a></td>
+                <td>2</td>
+                <td>2</td>
+                <td>Flowcharts & Pseudocode</td>
+                <td>Visualize solutions with flowcharts and pseudocode, bridging the gap between ideas and real code.</td>
+                <td><a href="#">Lesson 5</a></td>
             </tr>
             <tr>
-               </tbody>
+                <td>2</td>
+                <td>3</td>
+                <td>Critical Thinking in Tech</td>
+                <td>Apply critical reasoning to troubleshoot code, debug errors, and solve real-world problems creatively.</td>
+                <td><a href="#">Lesson 6</a></td>
+            </tr>
+            <!-- WEEK 3: Variables, Functions, Loops -->
+            <tr><td colspan="5"><strong>Week 3: Core Programming: Variables, Functions, and Loops</strong></td></tr>
+            <tr>
+                <td>3</td>
+                <td>1</td>
+                <td>Python Fundamentals: Variables and Data Types</td>
+                <td>Geniuses write their first Python code, learning about numbers, strings, and how to store and update information with variables.</td>
+                <td><a href="#">Lesson 7</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>2</td>
+                <td>Functions: Efficient & Reusable Code</td>
+                <td>Discover how to bundle code with functions, pass in arguments, and return results—making programs cleaner and smarter.</td>
+                <td><a href="#">Lesson 8</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>3</td>
+                <td>Loops: Automating Repetitive Tasks</td>
+                <td>Master for and while loops in Python to automate tasks, process lists, and build interactive programs.</td>
+                <td><a href="#">Lesson 9</a></td>
+            </tr>
+            <!-- WEEK 4: Strings, Lists, Dictionaries -->
+            <tr><td colspan="5"><strong>Week 4: Working with Strings, Lists, and Dictionaries</strong></td></tr>
+            <tr>
+                <td>4</td>
+                <td>1</td>
+                <td>Strings: Manipulating Text</td>
+                <td>Learn how to process user input, use string methods, and format output for smoother programs.</td>
+                <td><a href="#">Lesson 10</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>2</td>
+                <td>Lists: Storing and Sorting Data</td>
+                <td>Use Python lists to hold, change, and sort collections of data. Explore slicing, indexing, and key list methods.</td>
+                <td><a href="#">Lesson 11</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>3</td>
+                <td>Dictionaries: Data with Meaning</td>
+                <td>Map and retrieve values quickly using Python dictionaries; build programs that associate data pairs for smarter problem-solving.</td>
+                <td><a href="#">Lesson 12</a></td>
+            </tr>
+            <!-- WEEK 5: Git, Github, Business Website -->
+            <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control, Launching a Business Website</strong></td></tr>
+            <tr>
+                <td>5</td>
+                <td>1</td>
+                <td>Git & Github: Saving and Sharing Code</td>
+                <td>Learn the basics of Git for version control, team coding, and how Github powers open-source and business sites alike.</td>
+                <td><a href="#">Lesson 13</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>2</td>
+                <td>Business Website Kickoff: Planning and Content</td>
+                <td>Brainstorm, wireframe, and structure a real business website; assign content creation roles and sketch layout ideas.</td>
+                <td><a href="#">Lesson 14</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>3</td>
+                <td>Coding the Business Website</td>
+                <td>Put skills into action: configure repos, code landing pages in teams, and connect Python scripts to dynamic business features.</td>
+                <td><a href="#">Lesson 15</a></td>
+            </tr>
+            <!-- WEEK 6-7: Project Work -->
+            <tr><td colspan="5"><strong>Weeks 6-7: Business Website Project (Collaboration, Review, Launch)</strong></td></tr>
+            <tr>
+                <td>6</td>
+                <td>1</td>
+                <td>Project Work Session 1: Team Coding & Problem Solving</td>
+                <td>Teams collaborate on business websites, troubleshoot code, and implement features from previous weeks.</td>
+                <td><a href="#">Lesson 16</a></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>2</td>
+                <td>Project Work Session 2: Feedback & Iteration</td>
+                <td>Peer review and refine: teams exchange projects, test usability, and polish for real-world presentation.</td>
+                <td><a href="#">Lesson 17</a></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>1</td>
+                <td>Final Project Review & Business Website Launch</td>
+                <td>Geniuses finalize and present business websites—demonstrating how code, design, and technology become a real-world solution.</td>
+                <td><a href="#">Lesson 18</a></td>
+            </tr>
+        </tbody>
     </table>
 </details>
 <details>
