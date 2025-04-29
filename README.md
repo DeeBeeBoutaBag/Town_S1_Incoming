@@ -15,10 +15,13 @@
   * White Privilege & White Supremacy
   * Racism, Racism, and "Reverse Racism"
 - TECH CREATION
-  * Landing Page app
-  * Art Gallery app
-  * Clothing Store App
-  * Sports App
+  * Week 1: Computer Fundamentals, Concepts
+  * Week 2: Problem Solving, Critical Thinking
+  * Week 3: Variables, Functions, Loops
+  * Week 4: Strings, Lists, Dictionaries
+  * Week 5: Git, Github, OOP Principles
+  * Week 6-7: Work on Mini Python Project
+
 - RADICAL SOCIAL ENTREPRENUERSHIP
   * Integrate Final Website 
   * Add User Database
@@ -358,12 +361,12 @@
                 <td><a href="#">Lesson 15</a></td>
             </tr>
             <!-- WEEK 6-7: Project Work -->
-            <tr><td colspan="5"><strong>Weeks 6-7: Business Website Project (Collaboration, Review, Launch)</strong></td></tr>
+            <tr><td colspan="5"><strong>Weeks 6-7: Mini Python Project (Collaboration, Review, Launch)</strong></td></tr>
             <tr>
                 <td>6</td>
                 <td>1</td>
                 <td>Project Work Session 1: Team Coding & Problem Solving</td>
-                <td>Teams collaborate on business websites, troubleshoot code, and implement features from previous weeks.</td>
+                <td>Teams collaborate on Mini Projects, troubleshoot code, and implement features from previous weeks.</td>
                 <td><a href="#">Lesson 16</a></td>
             </tr>
             <tr>
@@ -377,7 +380,7 @@
                 <td>7</td>
                 <td>1</td>
                 <td>Final Project Review & Business Website Launch</td>
-                <td>Geniuses finalize and present business websites—demonstrating how code, design, and technology become a real-world solution.</td>
+                <td>Geniuses finalize and present Mini Project—demonstrating how code, design, and technology become a real-world solution.</td>
                 <td><a href="#">Lesson 18</a></td>
             </tr>
         </tbody>
