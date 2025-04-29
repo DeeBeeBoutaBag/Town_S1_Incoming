@@ -34,150 +34,186 @@
 ## Unit Plan:
 
 <details>
-  <summary>Leadership</summary>
-  <table>
-    <thead>
-      <tr>
-        <th>DAY</th>
-        <th>Lesson Desc.</th>
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Brotherhood and Ubuntu Unit -->
-      <tr>
-        <td>1</td>
-        <td>Brotherhood & Ubuntu: Community, Connection, and Support</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>What Does it Mean to Be Black? Identity, Pride, and Power</td>
-        <td></td>
-      </tr>
-      <!-- Social Constructs Unit -->
-      <tr>
-        <td>3</td>
-        <td>Social Constructs Part 1: Exploring Everyday Power Systems (4 Corners Simulation)</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Social Constructs Part 2: Building New Societies (Create-a-Country)</td>
-        <td></td>
-      </tr>
-      <!-- Power Unit -->
-      <tr>
-        <td>5</td>
-        <td>Power: Who Has Power & Why? (Power Simulation)</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>Power: Building and Challenging Power (World-Builders)</td>
-        <td></td>
-      </tr>
-      <!-- Capitalism Unit -->
-      <tr>
-        <td>7</td>
-        <td>Capitalism Part 1: Who Owns, Who Works, Who Wins? (Marketplace Simulation)</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>Capitalism Part 2: Resisting and Reimagining Capitalism (Just Society Design)</td>
-        <td></td>
-      </tr>
-      <!-- Patriarchy Unit -->
-      <tr>
-        <td>9</td>
-        <td>Patriarchy Part 1: What Is Patriarchy? (Defining and Spotting Patriarchy)</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>Patriarchy Part 2: Impacts & Costs of Patriarchy</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>Patriarchy Part 3: Challenging Patriarchy – Skills for Change</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>Patriarchy Part 4: Interlocking Oppressions—Patriarchy, White Supremacy, Capitalism</td>
-        <td></td>
-      </tr>
-      <!-- Colonialism/NeoColonialism Unit -->
-      <tr>
-        <td>13</td>
-        <td>Colonialism: Unpacking the Past & Its Impact on Black People</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>NeoColonialism: The New Chains – Modern Economic and Cultural Control</td>
-        <td></td>
-      </tr>
-      <!-- Imperialism Unit -->
-      <tr>
-        <td>15</td>
-        <td>Imperialism: Tech, Business, and Gentrification—Modern Examples and Solutions</td>
-        <td></td>
-      </tr>
-      <!-- Sovereignty Unit -->
-      <tr>
-        <td>16</td>
-        <td>Sovereignty: Self-Governance, Black Innovation, and Community Leadership</td>
-        <td></td>
-      </tr>
-      <!-- White Privilege Unit -->
-      <tr>
-        <td>17</td>
-        <td>White Privilege Part 1: Systems of Advantage and Everyday Impact</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>18</td>
-        <td>White Privilege Part 2: Intersectionality, Resistance, and Accountability</td>
-        <td></td>
-      </tr>
-      <!-- White Supremacy Unit -->
-      <tr>
-        <td>19</td>
-        <td>White Supremacy Part 1: History, Power, and Institutions</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>20</td>
-        <td>White Supremacy Part 2: Resistance and Dismantling Oppression</td>
-        <td></td>
-      </tr>
-      <!-- Internalized Racism, Racism, Reverse Racism Unit -->
-      <tr>
-        <td>21</td>
-        <td>Internalized Racism: Understanding and Identifying Internalized Beliefs and Behaviors</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>22</td>
-        <td>Racism: Beyond Prejudice—Power, Systems, and Oppression</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>23</td>
-        <td>Reverse Racism: Myth-Busting and the Southern Strategy</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>24</td>
-        <td>Building Unity: Healing from Internalized Racism and Reclaiming Community Strength</td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
+    <summary>Leadership</summary>
+    <table>
+        <thead>
+            <tr>
+                <th>WEEK</th>
+                <th>DAY</th>
+                <th>Lesson Title</th>
+                <th>Lesson Description</th>
+                <th>Lesson Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- WEEK 1: Community, Identity, and Systems -->
+            <tr><td colspan="5"><strong>Week 1: Brotherhood, Identity, and the Foundations of Power</strong></td></tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+                <td>Brotherhood & Ubuntu</td>
+                <td>Geniuses explore concepts of brotherhood and Ubuntu by building connections, learning names, and reflecting on the power of community support.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>2</td>
+                <td>What Does It Mean to Be Black?</td>
+                <td>Identity, culture, pride, and Black excellence — geniuses share their experiences and celebrate diversity within Blackness through creative expression and games.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>3</td>
+                <td>Social Constructs I: Who Gets What? (4 Corners Simulation)</td>
+                <td>Break down social constructs by taking on resource roles, negotiating for resources and bonus money, and reflecting on fairness and privilege.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>4</td>
+                <td>Social Constructs II: Create-a-Country Challenge</td>
+                <td>Geniuses form new nations, establishing values, resources, and rules to learn how systems and constructs are designed and enforced.</td>
+                <td></td>
+            </tr> 
+            <!-- WEEK 2: Power, Economics, Patriarchy, and Oppression -->
+            <tr><td colspan="5"><strong>Week 2: Power, Economics, and Interlocking Systems</strong></td></tr>
+            <tr>
+                <td>2</td>
+                <td>1</td>
+                <td>Power I: Who Has Power & Why?</td>
+                <td>Understand key definitions and relationships of power with a hands-on role simulation and group reflection.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>2</td>
+                <td>Power II: Building & Challenging Power</td>
+                <td>Geniuses design their own societies, exploring how power is created, shared, or contested when new challenges arise.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>3</td>
+                <td>Capitalism I: Who Owns, Who Works, Who Wins?</td>
+                <td>Simulate capitalist marketplace dynamics by taking the roles of owners, workers, and unwaged labor. Analyze who gets wealthy and why.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>4</td>
+                <td>Capitalism II: Resisting, Reforming, and Reimagining</td>
+                <td>Design “Just Societies” and explore how people resist exploitation through co-ops, unions, and collective action.</td>
+                <td></td>
+            </tr>
+            <!-- WEEK 3: Gender, Colonization, and Sovereignty -->
+            <tr><td colspan="5"><strong>Week 3: Patriarchy, Colonialism and Community Power</strong></td></tr>
+            <tr>
+                <td>3</td>
+                <td>1</td>
+                <td>Patriarchy I: What Is Patriarchy?</td>
+                <td>Learn what patriarchy is, spot gender roles and stereotypes, and explore its connections to other systems of oppression.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>2</td>
+                <td>Patriarchy II: Impacts & Costs</td>
+                <td>Geniuses map out how patriarchy affects all genders and intersecting identities through stories and discussion.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>3</td>
+                <td>Patriarchy III: Skills for Challenging Patriarchy</td>
+                <td>Practice bystander intervention, allyship, and campaign brainstorming to disrupt gendered oppression.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>4</td>
+                <td>Patriarchy IV: Interlocking Oppressions</td>
+                <td>Understand how patriarchy, white supremacy, and capitalism connect; build solidarity and intersectional analysis.</td>
+                <td></td>
+            </tr>
+            <!-- WEEK 4: Colonialism, Imperialism, and Self-Determination -->
+            <tr><td colspan="5"><strong>Week 4: Colonialism, Imperialism, and Sovereignty</strong></td></tr>
+            <tr>
+                <td>4</td>
+                <td>1</td>
+                <td>Colonialism: History and Legacies for Black People</td>
+                <td>Trace the roots and impact of colonialism, mapping stolen land, identity, culture, and wealth; connect to anti-colonial resistance.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>2</td>
+                <td>NeoColonialism: Modern Economic and Cultural Control</td>
+                <td>Role-play national leaders facing external forces, analyze case studies, and strategize for self-determination in a neo-colonial world.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>3</td>
+                <td>Imperialism: Tech, Gentrification & Digital Control</td>
+                <td>Geniuses evaluate how tech giants, social media, and gentrification act as new forms of imperialism impacting Black communities.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>4</td>
+                <td>Sovereignty: Self-Governance and Black Innovation</td>
+                <td>Students design tech, entrepreneurship, and school advocacy projects to imagine and advocate for Black community control and decision-making.</td>
+                <td></td>
+            </tr>
+            <!-- WEEK 5: Race, Privilege, and Internalization -->
+            <tr><td colspan="5"><strong>Week 5: Understanding Racism, Privilege, and Healing</strong></td></tr>
+            <tr>
+                <td>5</td>
+                <td>1</td>
+                <td>White Privilege I: Systems of Advantage</td>
+                <td>Define personal and institutional privilege, analyze real-world scenarios of advantage, and reflect on the results of US systemic favoritism toward whites.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>2</td>
+                <td>White Privilege II: Intersectionality, Resistance, Accountability</td>
+                <td>Explore how privilege and oppression intersect, and develop action steps for solidarity and anti-racism.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>3</td>
+                <td>White Supremacy I: Systemic Exploitation and Oppression</td>
+                <td>Learn the history and mechanics of white supremacy as a global structure and connect historic examples to today’s realities.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>4</td>
+                <td>White Supremacy II: Resistance and Dismantling Oppression</td>
+                <td>Investigate resistance movements, past and present, and strategize how to confront and dismantle oppressive systems.</td>
+                <td></td>
+            </tr>
+            <!-- WEEK 6: Internalized Racism, Healing, and Unity -->
+            <tr><td colspan="5"><strong>Week 6: Internalized Racism, Healing, and Unity</strong></td></tr>
+            <tr>
+                <td>6</td>
+                <td>1</td>
+                <td>Internalized Racism: The Poison Within</td>
+                <td>Examine how people of color absorb harmful beliefs and behaviors, then develop healing practices and affirmations for self and community.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>2</td>
+                <td>Racism: Prejudice Plus Power</td>
+                <td>Clarify real definitions and mechanisms of racism, examining local and national case studies on how prejudice is enforced by systems of power.</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td
 <details>
     <summary>Bootstrap</summary>
       <table>
