@@ -63,7 +63,7 @@
                 <td>2</td>
                 <td>What Does It Mean to Be Black?</td>
                 <td>Identity, culture, pride, and Black excellence — geniuses share their experiences and celebrate diversity within Blackness through creative expression and games.</td>
-                <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_1/W1_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>1</td>
