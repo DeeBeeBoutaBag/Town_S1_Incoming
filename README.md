@@ -212,8 +212,6 @@
                 <td>Clarify real definitions and mechanisms of racism, examining local and national case studies on how prejudice is enforced by systems of power.</td>
                 <td></td>
             </tr>
-            <tr>
-                <td></td>
 </details>
     <summary>Bootstrap</summary>
       <table>
