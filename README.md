@@ -213,8 +213,8 @@
                 <td></td>
             </tr>
             <tr>
-                <td
-<details>
+                <td></td>
+</details>
     <summary>Bootstrap</summary>
       <table>
         <thead>
