@@ -1,0 +1,57 @@
+<img src="https://github.com/Hgp-GeniusLabs/Curriculum/blob/10734f2c827128dde773ea4f266d154d46977866/Org-Wide/Assets/hgp_logo_original.png" width="150"/>
+
+# Lesson Plan: Geniuses Style With CSS — The Ultimate Website Upgrade
+
+## **Duration:**
+1 hour
+
+## **Lesson Overview:**
+Geniuses will unlock the world of CSS! They’ll learn what CSS is, why styling matters, and try using color, backgrounds, and basic formatting. Get ready for web pages with serious swagger.
+
+## **Objectives:**
+- Define CSS and understand how it’s used with HTML.
+- Write basic CSS using selectors, properties, and values.
+- Use inline, internal, and external CSS.
+
+## **Materials:**
+- Computers with code editor
+- CSS syntax handout/reference
+- Web browser
+
+## **Standards:**
+- CSTA 2-AP-13, 2-AP-17
+
+## **Lesson Activity:**
+
+### 1. **Introduction (Time: 10 minutes)**
+   - **Objective:** Excite geniuses about design.
+   - Show "before and after" plain vs. styled web pages.
+   - Discuss: "How do you customize your phone/gaming profile?"
+
+### 2. **Direct Instruction (Time: 15 minutes)**
+   - **Objective:** Introduce CSS basics.
+   - Teach: Selectors, properties, values.
+   - Demo inline, internal, and external CSS (including how to link a CSS file).
+
+### 3. **Guided Practice (Time: 15 minutes)**
+   - **Objective:** Geniuses add color to their world!
+   - Each genius changes the background-color of their site.
+   - Try styling headers and nav bars by tag.
+
+### 4. **Independent Practice (Time: 10 minutes)**
+   - **Objective:** Personalize style.
+   - Each genius adds two new style rules (font color, size, etc).
+
+### 5. **Closure (Time: 10 minutes)**
+   - **Objective:** Review genius breakthroughs.
+   - Show off colorful/unique pages.
+   - Remind: Next week—CSS gets even cooler!
+
+## **Assessment:**
+Page must show 2+ styles (color, background, etc) and use at least 2 types of CSS (inline, internal, or external).
+
+## **Extra Activities:**
+- Try styling your nav bar or list with a border.
+
+## **Reflection / Takeaways:**
+See which CSS concepts are challenging and review as needed.
