@@ -335,7 +335,7 @@
                 <td><a href="#">Lesson 12</a></td>
             </tr>
             <!-- WEEK 5: Git, Github, OOP Principles -->
-            <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control</strong></td></tr>
+            <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control, OOP Principles</strong></td></tr>
             <tr>
                 <td>5</td>
                 <td>1</td>
