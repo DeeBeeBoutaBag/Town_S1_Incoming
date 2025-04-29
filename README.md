@@ -137,7 +137,7 @@
                 <td>4</td>
                 <td>Patriarchy IV: Interlocking Oppressions</td>
                 <td>Understand how patriarchy, white supremacy, and capitalism connect; build solidarity and intersectional analysis.</td>
-                <td><a href="Leadership/Week_3/W1_D4.md">Lesson Plan</a></td>
+                <td><a href="Leadership/Week_3/W3_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 4: Colonialism, Imperialism, and Self-Determination -->
             <tr><td colspan="5"><strong>Week 4: Colonialism, Imperialism, and Sovereignty</strong></td></tr>
