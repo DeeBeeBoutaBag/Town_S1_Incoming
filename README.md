@@ -7,31 +7,34 @@
 
 ## Key Assignments:
 
-- JAVASCRIPT
-  * Counter app
-  * Dark mode app
-  * Modal / pop ups app
-  * Form Data submission app
-  * Event handling app
-- BOOTSTRAP
+- LEADERSHIP
+  * Brotherhood, Blackness, Social Construct
+  * Power & Capitalism
+  * Patriarchy
+  * Colonialism, NeoColonialism, Imperialism
+  * White Privilege & White Supremacy
+  * Racism, Racism, and "Reverse Racism"
+- TECH CREATION
   * Landing Page app
   * Art Gallery app
   * Clothing Store App
   * Sports App
-- FLASK
+- RADICAL SOCIAL ENTREPRENUERSHIP
   * Integrate Final Website 
   * Add User Database
- - RSE
-   * Financial Planning
-   * Creating a Marketing Plan
-   * Team-Building Exercise
-   *  Choosing a Legal Structure
+ - WEB DEVELOPMENT
+   * Introduction to HTML & Websites, “Boilerplate”
+   * Leveling Up with HTML Headings & Semantic Structure
+   * CSS
+   * Collect User Input, Dropdowns & Menus
+   * CSS Layouts — Taming the Web Page
+   * Genius Portfolio Project
 
 
 ## Unit Plan:
 
 <details>
-    <summary>Javascript</summary>
+    <summary>Leadership</summary>
       <table>
         <thead>
             <tr>
