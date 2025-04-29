@@ -334,8 +334,8 @@
                 <td>Map and retrieve values quickly using Python dictionaries; build programs that associate data pairs for smarter problem-solving.</td>
                 <td><a href="#">Lesson 12</a></td>
             </tr>
-            <!-- WEEK 5: Git, Github, Business Website -->
-            <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control, Launching a Business Website</strong></td></tr>
+            <!-- WEEK 5: Git, Github, OOP Principles -->
+            <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control</strong></td></tr>
             <tr>
                 <td>5</td>
                 <td>1</td>
@@ -346,15 +346,15 @@
             <tr>
                 <td>5</td>
                 <td>2</td>
-                <td>Business Website Kickoff: Planning and Content</td>
-                <td>Brainstorm, wireframe, and structure a real business website; assign content creation roles and sketch layout ideas.</td>
+                <td>Working colaborative on Branches</td>
+                <td>Put skills into action: configure repos, and build a project together</td>
                 <td><a href="#">Lesson 14</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>3</td>
-                <td>Coding the Business Website</td>
-                <td>Put skills into action: configure repos, code landing pages in teams, and connect Python scripts to dynamic business features.</td>
+                <td>OOP Principles</td>
+                <td>Work on the concepts of classes, and objects</td>
                 <td><a href="#">Lesson 15</a></td>
             </tr>
             <!-- WEEK 6-7: Project Work -->
