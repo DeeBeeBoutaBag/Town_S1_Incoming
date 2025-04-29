@@ -384,53 +384,6 @@
     </table>
 </details>
 <details>
-    <summary>Flask</summary>
-      <table>
-        <thead>
-            <tr>
-                <th>DAY</th>
-                <th>Lesson Desc.</th>
-                <th>Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>13</td>
-                <td>Intro into Flask: Setting up the Flask environment, Creating routes and templates</td>
-              <td>Row 1, Column 3</td>
-            </tr>
-            <tr>
-                <td>14</td>
-                <td>Integrate website into Flask</td>
-                <td>Row 2, Column 3</td>
-            </tr>
-            <tr>
-                <td>15</td>
-                <td>Add static objects and clean up code</td>
-                <td>Row 3, Column 3</td>
-            </tr>
-            <tr>
-                <td>16</td>
-                <td>Connecting Flask with a database (SQLAlchemy)</td>
-                <td>Row 4, Column 3</td>
-            </tr>
-            <tr>
-                <td>17</td>
-                <td>Flask User authentication and sessions</td>
-                <td>Row 5, Column 3</td>
-            </tr>
-            <tr>
-                <td>18</td>
-                <td colspan="2">Work on Completing Website and Pitches for Website</td>
-            </tr>
-          <tr>
-                <td>19</td>
-                <td colspan="2">Present Final Flask Website</td>
-            </tr>
-        </tbody>
-    </table>
-</details>
-<details>
     <summary>Radical Social Entreprenuership</summary>
       <table>
         <thead>
