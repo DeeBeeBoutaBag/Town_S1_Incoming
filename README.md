@@ -195,125 +195,155 @@
     </table>
 </details>
 <details>
-    <summary>Leadership</summary>
+    <summary>Website Creation (HTML & CSS Course)</summary>
       <table>
         <thead>
             <tr>
+                <th>WEEK</th>
                 <th>DAY</th>
-                <th>Lesson Desc.</th>
-                <th>Link</th>
+                <th>Lesson Title</th>
+                <th>Lesson Description</th>
+                <th>Lesson Link</th>
             </tr>
         </thead>
         <tbody>
-         <tr>
-                <td colspan="3">Holistic Health & Wellness</td>
+            <!-- WEEK 1 -->
+            <tr><td colspan="5"><strong>Week 1: Starting Your Web Genius Journey</strong></td></tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+                <td>Introduction to HTML & Websites</td>
+                <td>Geniuses learn what HTML is, why it matters, and create their very first web page using headings and paragraphs.</td>
+                <td><a href="#">Lesson 1</a></td>
             </tr>
             <tr>
                 <td>1</td>
-                <td>Time Management</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+                <td>2</td>
+                <td>Basic HTML Structure & Boilerplate</td>
+                <td>Geniuses understand essential HTML structure: doctype, html, head, body, meta, title, and how everything fits together for a legit site.</td>
+                <td><a href="#">Lesson 2</a></td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>3</td>
+                <td>Adding Images & Links in HTML</td>
+                <td>Geniuses make their sites come alive with images (<img>) and hyperlinks (<a>), learning the magic of attributes like src, alt, and href.</td>
+                <td><a href="#">Lesson 3</a></td>
+            </tr>
+            <!-- WEEK 2 -->
+            <tr><td colspan="5"><strong>Week 2: Structure, Navigation, and Styling Genius </strong></td></tr>
+            <tr>
+                <td>2</td>
+                <td>1</td>
+                <td>Leveling Up with HTML Headings & Semantic Structure</td>
+                <td>Learn & use header, nav, section, article, and footer tags; practice all heading (<h1>–<h6>) tags for website clarity and SEO goodness.</td>
+                <td><a href="#">Lesson 4</a></td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>Growth vs Fixed Mindset</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+                <td>2</td>
+                <td>HTML Lists & The Genius Navigation Bar</td>
+                <td>Geniuses master <ul>, <ol>, and <li> for lists and menus—building nav bars to connect their site like a pro.</td>
+                <td><a href="#">Lesson 5</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>3</td>
+                <td>Geniuses Style With CSS — The Ultimate Website Upgrade</td>
+                <td>Geniuses unlock CSS: selectors, properties, and values. Style with inline, internal, or external CSS, including color and backgrounds.</td>
+                <td><a href="#">Lesson 6</a></td>
+            </tr>
+            <!-- WEEK 3 -->
+            <tr><td colspan="5"><strong>Week 3: CSS Power and Multi-Page Genius</strong></td></tr>
+            <tr>
+                <td>3</td>
+                <td>1</td>
+                <td>CSS Selectors — Genius Control Over Style</td>
+                <td>Master styling by tag, class, and id selectors with practice on homepages and nav bars.</td>
+                <td><a href="#">Lesson 7</a></td>
             </tr>
             <tr>
                 <td>3</td>
-                <td>Being Present</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+                <td>2</td>
+                <td>Linking Pages — Genius Multi-Page Websites</td>
+                <td>Create and connect several HTML files with relative links in the nav, setting up a true portfolio site foundation.</td>
+                <td><a href="#">Lesson 8</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>3</td>
+                <td>CSS Styling Power Ups! Colors, Size & Units</td>
+                <td>Geniuses explore CSS sizing units (px, %, em), color properties, background-color, and tweak style live in Dev Tools.</td>
+                <td><a href="#">Lesson 9</a></td>
+            </tr>
+            <!-- WEEK 4 -->
+            <tr><td colspan="5"><strong>Week 4: Forms, Dropdowns & Debugging Genius</strong></td></tr>
+            <tr>
+                <td>4</td>
+                <td>1</td>
+                <td>Genius Forms – Collect User Input</td>
+                <td>Create forms with text, radio, checkboxes, and more to gather user info on your pages.</td>
+                <td><a href="#">Lesson 10</a></td>
             </tr>
             <tr>
                 <td>4</td>
-                <td>Trust & Love</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
-            </tr>
-         <tr>
-                <td colspan="3">Financial Literacy </td>
-            </tr>
-            <tr>
-                <td>1</td>
-                <td>Capitalism</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
-            </tr>
-            <tr>
                 <td>2</td>
-                <td>The Art of Negotiation: Mastering Money Talks</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>The Art of Networking </td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+                <td>Genius Dropdowns & Menus</td>
+                <td>Use <select>, <option>, and add dropdowns to forms and nav bars for snappier UI.</td>
+                <td><a href="#">Lesson 11</a></td>
             </tr>
             <tr>
                 <td>4</td>
-                <td>Taxes and Paychecks: Who really gets paid</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
-            </tr>
-            <tr>
-                <td colspan="3">Educational System</td>
-            </tr>
-         <tr>
-                <td>1</td>
-                <td>Equity vs Equality & Justice</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>College 101: Is it really worth it?</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
-            </tr>
-            <tr>
                 <td>3</td>
-                <td>Non-Traditional Education & World Education</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+                <td>Dev Tools Genius – Debug & Customize in the Browser</td>
+                <td>Geniuses use browser Dev Tools to inspect, debug, and style sites live like pro developers.</td>
+                <td><a href="#">Lesson 12</a></td>
             </tr>
-         <tr>
-                <td colspan="3">Global Community & Governments</td>
-            </tr>
-         <tr>
+            <!-- WEEK 5 -->
+            <tr><td colspan="5"><strong>Week 5: Pro Page Design & Personalization</strong></td></tr>
+            <tr>
+                <td>5</td>
                 <td>1</td>
-                <td>What is the black diaspora</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+                <td>Genius CSS Layouts — Taming the Web Page</td>
+                <td>Learn the CSS box model, margin, padding, and display properties to create layouts that look sharp.</td>
+                <td><a href="#">Lesson 13</a></td>
             </tr>
             <tr>
+                <td>5</td>
                 <td>2</td>
-                <td>The Matrix</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+                <td>Genius Fonts & Beyond — Bringing Personality to Your Pages</td>
+                <td>Personalize sites with Google Fonts, font-family, text effects like bold, italics, and text-shadow for maximum flair.</td>
+                <td><a href="#">Lesson 14</a></td>
             </tr>
             <tr>
+                <td>5</td>
                 <td>3</td>
-                <td>World Governments & effects on black diaspora</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
+                <td>Site Polish & Genius Review</td>
+                <td>Catching up, bug fixing, and peer-auditing so every genius is ready for a showcase-level portfolio.</td>
+                <td><a href="#">Lesson 15</a></td>
             </tr>
+            <!-- WEEK 6 -->
+            <tr><td colspan="5"><strong>Week 6: Genius Portfolio Project Week</strong></td></tr>
             <tr>
-                <td>4</td>
-                <td>World Leaders: Learning from the Best</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
-            </tr>
-         <tr>
-                <td colspan="3">Full Circle</td>
-            </tr>
-         <tr>
+                <td>6</td>
                 <td>1</td>
-                <td>Manhood Development pt.1</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
+                <td>Genius Portfolio Project – Launch & Planning</td>
+                <td>Plan your final site—wireframe, map, and start building your genius multi-page website project.</td>
+                <td><a href="#">Lesson 16</a></td>
             </tr>
             <tr>
+                <td>6</td>
                 <td>2</td>
-                <td>Manhood Development pt.2</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
+                <td>Genius Portfolio Project – Build & Peer Review</td>
+                <td>Work session with troubleshooting and peer review—get every required element built and styled.</td>
+                <td><a href="#">Lesson 17</a></td>
             </tr>
             <tr>
+                <td>6</td>
                 <td>3</td>
-                <td>The Four Agreements</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>It’s Your Life</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
+                <td>Genius Portfolio Project Showcase Day</td>
+                <td>Geniuses present their finished websites in a class showcase with feedback and celebration!</td>
+                <td><a href="#">Lesson 18</a></td>
             </tr>
         </tbody>
     </table>
