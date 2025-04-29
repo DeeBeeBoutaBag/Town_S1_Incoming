@@ -195,7 +195,7 @@
     </table>
 </details>
 <details>
-    <summary>WEB DEVELOPMENT</summary>
+    <summary>Web Development</summary>
       <table>
         <thead>
             <tr>
