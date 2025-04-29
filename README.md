@@ -195,7 +195,7 @@
     </table>
 </details>
 <details>
-    <summary>Website Creation (HTML & CSS Course)</summary>
+    <summary>WEB DEVELOPMENT</summary>
       <table>
         <thead>
             <tr>
