@@ -34,47 +34,149 @@
 ## Unit Plan:
 
 <details>
-    <summary>Leadership</summary>
-      <table>
-        <thead>
-            <tr>
-                <th>DAY</th>
-                <th>Lesson Desc.</th>
-                <th>Link</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>3</td>
-                <td>Intro into JS: Variables, data types, and operators / Counter Button</td>
-              <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/counter">Counter</a></td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>JS Fundamentals Cont. / Dark mode app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/dark-mode">Dark Mode</a></td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>JS Animations / Modal / pop ups app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/model-pop-up">Modal/Pop-Ups</a></td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>JS Functions, loops, and conditionals/ Form Data submission app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/form-submission">Form Submission</a></td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>JS DOM manipulation and event handling / Event handling app</td>
-                <td><a href="https://github.com/The-Hidden-Genius-Project/Fall-Immersion/tree/main/javascript/event-handling">Event Handling</a></td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td colspan="2">Recap over JS fundamentals and add one or more of topics learned to Website</td>
-            </tr>
-        </tbody>
-    </table>
+  <summary>Leadership</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>DAY</th>
+        <th>Lesson Desc.</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Brotherhood and Ubuntu Unit -->
+      <tr>
+        <td>1</td>
+        <td>Brotherhood & Ubuntu: Community, Connection, and Support</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>What Does it Mean to Be Black? Identity, Pride, and Power</td>
+        <td></td>
+      </tr>
+      <!-- Social Constructs Unit -->
+      <tr>
+        <td>3</td>
+        <td>Social Constructs Part 1: Exploring Everyday Power Systems (4 Corners Simulation)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Social Constructs Part 2: Building New Societies (Create-a-Country)</td>
+        <td></td>
+      </tr>
+      <!-- Power Unit -->
+      <tr>
+        <td>5</td>
+        <td>Power: Who Has Power & Why? (Power Simulation)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Power: Building and Challenging Power (World-Builders)</td>
+        <td></td>
+      </tr>
+      <!-- Capitalism Unit -->
+      <tr>
+        <td>7</td>
+        <td>Capitalism Part 1: Who Owns, Who Works, Who Wins? (Marketplace Simulation)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Capitalism Part 2: Resisting and Reimagining Capitalism (Just Society Design)</td>
+        <td></td>
+      </tr>
+      <!-- Patriarchy Unit -->
+      <tr>
+        <td>9</td>
+        <td>Patriarchy Part 1: What Is Patriarchy? (Defining and Spotting Patriarchy)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Patriarchy Part 2: Impacts & Costs of Patriarchy</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Patriarchy Part 3: Challenging Patriarchy – Skills for Change</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>Patriarchy Part 4: Interlocking Oppressions—Patriarchy, White Supremacy, Capitalism</td>
+        <td></td>
+      </tr>
+      <!-- Colonialism/NeoColonialism Unit -->
+      <tr>
+        <td>13</td>
+        <td>Colonialism: Unpacking the Past & Its Impact on Black People</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>NeoColonialism: The New Chains – Modern Economic and Cultural Control</td>
+        <td></td>
+      </tr>
+      <!-- Imperialism Unit -->
+      <tr>
+        <td>15</td>
+        <td>Imperialism: Tech, Business, and Gentrification—Modern Examples and Solutions</td>
+        <td></td>
+      </tr>
+      <!-- Sovereignty Unit -->
+      <tr>
+        <td>16</td>
+        <td>Sovereignty: Self-Governance, Black Innovation, and Community Leadership</td>
+        <td></td>
+      </tr>
+      <!-- White Privilege Unit -->
+      <tr>
+        <td>17</td>
+        <td>White Privilege Part 1: Systems of Advantage and Everyday Impact</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>White Privilege Part 2: Intersectionality, Resistance, and Accountability</td>
+        <td></td>
+      </tr>
+      <!-- White Supremacy Unit -->
+      <tr>
+        <td>19</td>
+        <td>White Supremacy Part 1: History, Power, and Institutions</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td>White Supremacy Part 2: Resistance and Dismantling Oppression</td>
+        <td></td>
+      </tr>
+      <!-- Internalized Racism, Racism, Reverse Racism Unit -->
+      <tr>
+        <td>21</td>
+        <td>Internalized Racism: Understanding and Identifying Internalized Beliefs and Behaviors</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td>Racism: Beyond Prejudice—Power, Systems, and Oppression</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td>Reverse Racism: Myth-Busting and the Southern Strategy</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td>Building Unity: Healing from Internalized Racism and Reclaiming Community Strength</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 <details>
     <summary>Bootstrap</summary>
