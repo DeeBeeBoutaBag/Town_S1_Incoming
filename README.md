@@ -56,7 +56,7 @@
                 <td>1</td>
                 <td>Brotherhood & Ubuntu</td>
                 <td>Geniuses explore concepts of brotherhood and Ubuntu by building connections, learning names, and reflecting on the power of community support.</td>
-                <td><a href="[https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69](https://github.com/DeeBeeBoutaBag/Town_S1_Incoming/blob/main/Leadership/Week_1/W1_D1.md)">Lesson Plan</a></td>
+                <td><a href="https://github.com/DeeBeeBoutaBag/Town_S1_Incoming/blob/main/Leadership/Week_1/W1_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>1</td>
