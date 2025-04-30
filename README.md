@@ -282,28 +282,28 @@
                 <td>1</td>
                 <td>Introduction to Algorithms</td>
                 <td>Geniuses break down problems into steps, design basic algorithms, and learn the logic behind computer problem-solving.</td>
-                <td><a href="Tech_Creation/Week_2/w2_d1.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_2/W2_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>2</td>
                 <td>Flowcharts & Pseudocode</td>
                 <td>Visualize solutions with flowcharts and pseudocode, bridging the gap between ideas and real code.</td>
-                <td><a href="Tech_Creation/Week_2/w2_d2.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_2/W2_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>3</td>
                 <td>Critical Thinking in Tech</td>
                 <td>Apply critical reasoning to troubleshoot code, debug errors, and solve real-world problems creatively.</td>
-                <td><a href="Tech_Creation/Week_2/w2_d3.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_2/W2_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>4</td>
                 <td>Game Logic</td>
                 <td>Geniuses will build a game</td>
-                <td><a href="Tech_Creation/Week_2/w2_d4.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_2/W2_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 3: Variables, Functions, Loops -->
             <tr><td colspan="5"><strong>Week 3: Core Programming: Variables, Functions, and Loops</strong></td></tr>
@@ -312,28 +312,28 @@
                 <td>1</td>
                 <td>Python Fundamentals: Variables and Data Types</td>
                 <td>Geniuses write their first Python code, learning about numbers, strings, and how to store and update information with variables.</td>
-                <td><a href="Tech_Creation/Week_3/w3_d1.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_3/W3_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>2</td>
                 <td>Functions: Efficient & Reusable Code</td>
                 <td>Discover how to bundle code with functions, pass in arguments, and return results—making programs cleaner and smarter.</td>
-                <td><a href="Tech_Creation/Week_3/w3_d2.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_3/W3_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>3</td>
                 <td>Loops: Automating Repetitive Tasks</td>
                 <td>Master for and while loops in Python to automate tasks, process lists, and build interactive programs.</td>
-                <td><a href="Tech_Creation/Week_3/w3_d3.md">Lesson 9</a></td>
+                <td><a href="Tech_Creation/Week_3/W3_D3.md">Lesson 9</a></td>
             </tr>
              <tr>
                 <td>3</td>
                 <td>4</td>
                 <td>Function Caluculator</td>
                 <td>Geniuses will build a Function Calculator</td>
-                <td><a href="Tech_Creation/Week_3/w3_d3.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_3/W3_D3.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 4: Strings, Lists, Dictionaries -->
             <tr><td colspan="5"><strong>Week 4: Working with Strings, Lists, and Dictionaries</strong></td></tr>
@@ -342,28 +342,28 @@
                 <td>1</td>
                 <td>Strings: Manipulating Text</td>
                 <td>Learn how to process user input, use string methods, and format output for smoother programs.</td>
-                <td><a href="Tech_Creation/Week_4/w4_d1.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_4/W4_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>2</td>
                 <td>Lists: Storing and Sorting Data</td>
                 <td>Use Python lists to hold, change, and sort collections of data. Explore slicing, indexing, and key list methods.</td>
-                <td><a href="Tech_Creation/Week_4/w4_d2.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_4/W4_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>3</td>
                 <td>Dictionaries: Data with Meaning</td>
                 <td>Map and retrieve values quickly using Python dictionaries; build programs that associate data pairs for smarter problem-solving.</td>
-                <td><a href="Tech_Creation/Week_4/w4_d3.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_4/W4_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
                 <td>4</td>
                 <td>Project Day: Data Analysis Tool</td>
                 <td>Build a tool that will look at data</td>
-                <td><a href="Tech_Creation/Week_4/w4_d4.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_4/W4_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 5: Git, Github, OOP Principles -->
             <tr><td colspan="5"><strong>Week 5: Collaboration, Version Control, OOP Principles</strong></td></tr>
@@ -372,28 +372,28 @@
                 <td>1</td>
                 <td>Git & Github: Saving and Sharing Code</td>
                 <td>Learn the basics of Git for version control, team coding, and how Github powers open-source and business sites alike.</td>
-                <td><a href="Tech_Creation/Week_5/w5_d1.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_5/W5_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>2</td>
                 <td>Working colaborative on Branches</td>
                 <td>Put skills into action: configure repos, and build a project together</td>
-                <td><a href="Tech_Creation/Week_5/w5_d2.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_5/W5_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>3</td>
                 <td>OOP Principles</td>
                 <td>Work on the concepts of classes, and objects</td>
-                <td><a href="Tech_Creation/Week_5/w5_d3.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_5/W5_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>5</td>
                 <td>4</td>
                 <td>OOP Principles</td>
                 <td>Work on the concepts of classes, and objects</td>
-                <td><a href="Tech_Creation/Week_5/w5_d4.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_5/W5_D4.md">Lesson Plan</a></td>
             </tr>
             <!-- WEEK 6-7: Project Work -->
             <tr><td colspan="5"><strong>Weeks 6-7: Mini Python Project (Collaboration, Review, Launch)</strong></td></tr>
@@ -402,28 +402,28 @@
                 <td>1</td>
                 <td>Project Work Session 1: Team Coding & Problem Solving</td>
                 <td>Teams collaborate on Mini Projects, troubleshoot code, and implement features from previous weeks.</td>
-                <td><a href="Tech_Creation/Week_6/w6_d1.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_6/W6_D1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>6</td>
                 <td>2</td>
                 <td>Project Work Session 2: Feedback & Iteration</td>
                 <td>Peer review and refine: teams exchange projects, test usability, and polish for real-world presentation.</td>
-                <td><a href="Tech_Creation/Week_6/w6_d2.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_6/W6_D2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>7</td>
                 <td>1</td>
                 <td>Final Project Review</td>
                 <td>Geniuses finalize and present Mini Project—demonstrating how code, design, and technology become a real-world solution.</td>
-                <td><a href="Tech_Creation/Week_6/w6_d3.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_6/W6_D3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>7</td>
                 <td>1</td>
                 <td>Final Project Review</td>
                 <td>Geniuses finalize and present Mini Project—demonstrating how code, design, and technology become a real-world solution.</td>
-                <td><a href="Tech_Creation/Week_6/w6_d4.md">Lesson Plan</a></td>
+                <td><a href="Tech_Creation/Week_6/W6_D4.md">Lesson Plan</a></td>
             </tr>
         </tbody>
     </table>
