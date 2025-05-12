@@ -433,7 +433,7 @@
       <table>
         <thead>
             <tr>
-                <th>DAY</th>
+                <th>Week</th>
                 <th>Lesson Desc.</th>
                 <th>Link</th>
             </tr>
@@ -441,23 +441,33 @@
         <tbody>
             <tr>
                 <td>1</td>
-                <td>Understanding Financial Sustainability</td>
-              <td><a href="https://docs.google.com/document/d/1EYkVRgO0HS1tp2RPdr-9ACTwOOoByJcWIeN7oFy2iTM/edit#heading=h.ipbnzs6afk69">Lesson Plan</a></td>
+                <td>What is Radical Social Entrepreneurship?</td>
+              <td><a href="RSE/Week_1/W1.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>Marketing and Scaling Social Impact</td>
-                <td><a href="https://docs.google.com/document/d/1alfxY6h14aA3wE3DtSvjsK1Q6QYDcmxTHjKnzNH9WAA/edit">Lesson Plan</a></td>
+                <td>Soft Pitches - "Sell Me This Pen"</td>
+              <td><a href="RSE/Week_2/w2.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>3</td>
-                <td>Building a Strong Team and Organizational Culture</td>
-                <td><a href="https://docs.google.com/document/d/1OF1Gp1fU8BL2D_w0n6TzBHIdtuBK21pRFHYss5YBUvE/edit">Lesson Plan</a></td>
+                <td>Business Analysis on Shark Tank</td>
+              <td><a href="RSE/Week_3/w3.md">Lesson Plan</a></td>
             </tr>
             <tr>
                 <td>4</td>
-                <td>Legal Structures and Compliance for Social Enterprises</td>
-                <td><a href="https://docs.google.com/document/d/1Pkkfodpu7_9lDOf9Ew5NCVvuP7bynFSuFCqNTM_oD94/edit">Lesson Plan</a></td>
+                <td>Personal Business Brainstorm & Outline</td>
+              <td><a href="RSE/Week_4/w4.md">Lesson Plan</a></td>
+            </tr>
+          <tr>
+                <td>5</td>
+                <td>Business Monetization & Customer Use Case</td>
+              <td><a href="RSE/Week_5/w5.md">Lesson Plan</a></td>
+            </tr>
+          <tr>
+                <td>6</td>
+                <td>Build Pitch Deck</td>
+              <td><a href="RSE/Week_6/w6.md">Lesson Plan</a></td>
             </tr>
         </tbody>
     </table>
